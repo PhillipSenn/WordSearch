@@ -1,0 +1,12 @@
+#letters {
+	display:none;
+}
+#VerticalWords {
+	display:none;
+}
+#HorizontalWords {
+	display:block;
+}
+body {
+	padding-top:0px;
+}

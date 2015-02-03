@@ -1,0 +1,49 @@
+td {
+	text-align:center;
+}
+td:hover {
+	cursor:pointer;
+}
+td {
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+#wordList {
+	border:1px solid #000;
+}
+#wordList li:hover {
+	cursor:pointer;
+	background-color:cornflowerblue;
+}
+#Earned {
+	position:absolute;
+	top:70px;
+	right:0;
+}
+#Board {
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+#letters .btn {
+	display:block;
+	margin-bottom:10px;
+}
+#letters {
+	height:690px;
+	overflow:scroll;
+}
+.fl {
+	float:left;
+	width:150px;
+}
+#HorizontalWords {
+	display:none;
+}
